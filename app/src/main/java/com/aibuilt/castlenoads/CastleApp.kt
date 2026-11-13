@@ -63,7 +63,20 @@ class AppContainer(private val context: Context) {
     val catalog = CatalogRepository(context)
     val user = UserRepository(context)
     val cast = CastManager(context)
-    val downloads = DownloadRepository(context)
+
+    /**
+     * START-UP CRASH FIX.
+     *
+     * DownloadRepository reaches back into CastleApp.container (a `lateinit` property) while it is
+     * being constructed. Building it eagerly here means that lookup happens *inside*
+     * CastleApp.onCreate(), while `container` is still unassigned, so Kotlin throws
+     * UninitializedPropertyAccessException and Android reports
+     * "Unable to create application ... CastleApp" — the app closes instantly, before any screen.
+     *
+     * It is now built on first use (from CastleViewModel, i.e. after onCreate has finished), which is
+     * the exact same object with the exact same behaviour, just created a moment later.
+     */
+    val downloads: DownloadRepository by lazy { DownloadRepository(context) }
 
     fun createPlayer(playerContext: Context, maxHeight: Int = Int.MAX_VALUE): ExoPlayer {
         val selector = DefaultTrackSelector(playerContext).apply {
