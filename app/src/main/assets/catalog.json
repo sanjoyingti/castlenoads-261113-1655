@@ -1,0 +1,436 @@
+[
+  {
+    "id": "banners-of-ash",
+    "name": "Banners of Ash",
+    "tagline": "A kingdom burns. One banner still stands.",
+    "synopsis": "When the northern keep falls, a disgraced banner-bearer must carry the last royal seal across a burning kingdom before dawn.",
+    "year": 2023,
+    "maturity": "16+",
+    "genres": ["Action", "Adventure"],
+    "categories": ["ACTION", "ULTRA_HD_4K"],
+    "castList": ["Elena Marsh", "Tomas Vane", "Iris Sallo"],
+    "posterUrl": "https://picsum.photos/seed/castle-banners/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-banners-wide/1200/675",
+    "premium": true,
+    "ultraHd": true,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "movie": {
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "runtimeMinutes": 96,
+      "audioLanguages": ["English", "Spanish"]
+    }
+  },
+  {
+    "id": "the-hollow-crown",
+    "name": "The Hollow Crown",
+    "tagline": "Every throne has a shadow.",
+    "synopsis": "A court physician keeps three kings alive and one secret buried, until the fourth king asks the wrong question.",
+    "year": 2024,
+    "maturity": "16+",
+    "genres": ["Drama", "History"],
+    "categories": ["DRAMA", "ULTRA_HD_4K"],
+    "castList": ["Margit Hallow", "Rowan Ede"],
+    "posterUrl": "https://picsum.photos/seed/castle-hollow/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-hollow-wide/1200/675",
+    "premium": true,
+    "ultraHd": true,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "hollow-s1e1",
+            "number": 1,
+            "title": "The Fourth King",
+            "synopsis": "Caldwell is summoned to a bedside he was never meant to reach.",
+            "runtimeMinutes": 52,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "audioLanguages": ["English"]
+          },
+          {
+            "id": "hollow-s1e2",
+            "number": 2,
+            "title": "Salt and Ink",
+            "synopsis": "A ledger goes missing from the chancery and the queen notices first.",
+            "runtimeMinutes": 49,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "audioLanguages": ["English"]
+          },
+          {
+            "id": "hollow-s1e3",
+            "number": 3,
+            "title": "The Long Corridor",
+            "synopsis": "Caldwell trades a diagnosis for a name.",
+            "runtimeMinutes": 55,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+            "audioLanguages": ["English"]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "episodes": [
+          {
+            "id": "hollow-s2e1",
+            "number": 1,
+            "title": "Cold Summer",
+            "synopsis": "Two years on, a wedding brings the whole court back together.",
+            "runtimeMinutes": 54,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "audioLanguages": ["English", "French"]
+          },
+          {
+            "id": "hollow-s2e2",
+            "number": 2,
+            "title": "What the Stones Keep",
+            "synopsis": "A sealed chapel is opened and the old accounts do not add up.",
+            "runtimeMinutes": 51,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "audioLanguages": ["English", "French"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "keep-of-thorns",
+    "name": "Keep of Thorns",
+    "tagline": "Hold the wall or lose the valley.",
+    "synopsis": "A garrison of twelve holds a mountain pass against a warlord's army for six days of rain.",
+    "year": 2022,
+    "maturity": "16+",
+    "genres": ["Action", "War"],
+    "categories": ["ACTION"],
+    "castList": ["Doran Pike", "Isla Renn", "Bram Ost"],
+    "posterUrl": "https://picsum.photos/seed/castle-thorns/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-thorns-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "thorns-s1e1",
+            "number": 1,
+            "title": "Twelve",
+            "synopsis": "The pass is named and the twelve are counted.",
+            "runtimeMinutes": 44,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "audioLanguages": ["English"]
+          },
+          {
+            "id": "thorns-s1e2",
+            "number": 2,
+            "title": "Rain on Stone",
+            "synopsis": "The first assault comes at night in the rain.",
+            "runtimeMinutes": 47,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "audioLanguages": ["English", "German"]
+          },
+          {
+            "id": "thorns-s1e3",
+            "number": 3,
+            "title": "Six Days",
+            "synopsis": "Relief is promised. Relief does not come.",
+            "runtimeMinutes": 46,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "audioLanguages": ["English", "German"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-cartographers-wife",
+    "name": "The Cartographer's Wife",
+    "tagline": "She drew the road he never came back on.",
+    "synopsis": "A mapmaker vanishes beyond the border and his wife keeps drawing, adding a road for every rumour.",
+    "year": 2021,
+    "maturity": "12+",
+    "genres": ["Drama", "Romance"],
+    "categories": ["DRAMA"],
+    "castList": ["Nell Ferrow", "Aston Brade"],
+    "posterUrl": "https://picsum.photos/seed/castle-carto/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-carto-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "movie": {
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "runtimeMinutes": 108,
+      "audioLanguages": ["English", "Italian"]
+    }
+  },
+  {
+    "id": "midnight-siege",
+    "name": "Midnight Siege",
+    "tagline": "The gate opens at the bell.",
+    "synopsis": "A saboteur inside the castle has until midnight to open the sea gate for an invading fleet.",
+    "year": 2024,
+    "maturity": "18+",
+    "genres": ["Action", "Thriller"],
+    "categories": ["ACTION", "ULTRA_HD_4K"],
+    "castList": ["Vera Lorn", "Cato Reese"],
+    "posterUrl": "https://picsum.photos/seed/castle-siege/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-siege-wide/1200/675",
+    "premium": true,
+    "ultraHd": true,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "movie": {
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "runtimeMinutes": 121,
+      "audioLanguages": ["English", "Spanish", "Portuguese"]
+    }
+  },
+  {
+    "id": "stones-that-sing",
+    "name": "Stones That Sing",
+    "tagline": "A year inside the cathedral workshops.",
+    "synopsis": "Masons, glaziers and bell-founders rebuild a nave that has stood for four hundred years.",
+    "year": 2020,
+    "maturity": "6+",
+    "genres": ["Documentary", "Craft"],
+    "categories": ["DOCUMENTARIES"],
+    "castList": ["Various craftspeople"],
+    "posterUrl": "https://picsum.photos/seed/castle-stones/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-stones-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": null,
+    "movie": {
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "runtimeMinutes": 74,
+      "audioLanguages": ["English"]
+    }
+  },
+  {
+    "id": "crown-of-glass",
+    "name": "Crown of Glass",
+    "tagline": "Three hundred years of one royal house.",
+    "synopsis": "A historian walks the palaces, portraits and paper trails of a dynasty that ended in a single afternoon.",
+    "year": 2023,
+    "maturity": "12+",
+    "genres": ["Documentary", "History"],
+    "categories": ["DOCUMENTARIES"],
+    "castList": ["Dr. Hella Vint", "Emeric Doune"],
+    "posterUrl": "https://picsum.photos/seed/castle-glass/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-glass-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "glass-s1e1",
+            "number": 1,
+            "title": "The First Portrait",
+            "synopsis": "A missing painting sets the questions for the whole series.",
+            "runtimeMinutes": 41,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "audioLanguages": ["English"]
+          },
+          {
+            "id": "glass-s1e2",
+            "number": 2,
+            "title": "Paper and Wax",
+            "synopsis": "The archive refuses to open one sealed box.",
+            "runtimeMinutes": 43,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "audioLanguages": ["English"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-little-squire",
+    "name": "The Little Squire",
+    "tagline": "Small boots, big errands.",
+    "synopsis": "A squire who is far too small for his armour keeps being sent on the wrong errands — and keeps fixing everything.",
+    "year": 2022,
+    "maturity": "All ages",
+    "genres": ["Kids", "Comedy"],
+    "categories": ["KIDS"],
+    "castList": ["Pip Alder", "Marta Feck"],
+    "posterUrl": "https://picsum.photos/seed/castle-squire/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-squire-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "squire-s1e1",
+            "number": 1,
+            "title": "The Wrong Helmet",
+            "synopsis": "Pip is handed the helmet of the royal guard dog.",
+            "runtimeMinutes": 22,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "audioLanguages": ["English", "Spanish"]
+          },
+          {
+            "id": "squire-s1e2",
+            "number": 2,
+            "title": "Drawbridge Day",
+            "synopsis": "The drawbridge is stuck and the drawbridge-man has a cold.",
+            "runtimeMinutes": 21,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "audioLanguages": ["English", "Spanish"]
+          },
+          {
+            "id": "squire-s1e3",
+            "number": 3,
+            "title": "The Moat Monster",
+            "synopsis": "Something in the moat is eating the ducks' bread.",
+            "runtimeMinutes": 23,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+            "audioLanguages": ["English"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragonmail",
+    "name": "Dragonmail",
+    "tagline": "Every letter takes a week and a dragon.",
+    "synopsis": "Two neighbouring castles start posting letters to each other by dragon, and the dragons would rather be napping.",
+    "year": 2021,
+    "maturity": "All ages",
+    "genres": ["Kids", "Adventure"],
+    "categories": ["KIDS"],
+    "castList": ["Lom Brick", "Tessy Vorn"],
+    "posterUrl": "https://picsum.photos/seed/castle-dragonmail/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-dragonmail-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": null,
+    "movie": {
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "runtimeMinutes": 68,
+      "audioLanguages": ["English", "Spanish", "French"]
+    }
+  },
+  {
+    "id": "the-queens-ledger",
+    "name": "The Queen's Ledger",
+    "tagline": "Numbers are a kind of armour.",
+    "synopsis": "A queen discovers her treasury has been quietly emptied and rebuilds it with nobody's help but her own.",
+    "year": 2023,
+    "maturity": "16+",
+    "genres": ["Drama", "History"],
+    "categories": ["DRAMA"],
+    "castList": ["Ana Corrow", "Fen Marsh"],
+    "posterUrl": "https://picsum.photos/seed/castle-ledger/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-ledger-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "ledger-s1e1",
+            "number": 1,
+            "title": "Two Coffers",
+            "synopsis": "One coffer of gold, one coffer of receipts.",
+            "runtimeMinutes": 48,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "audioLanguages": ["English"]
+          },
+          {
+            "id": "ledger-s1e2",
+            "number": 2,
+            "title": "The Quiet Loan",
+            "synopsis": "The queen borrows from the one man she cannot dismiss.",
+            "runtimeMinutes": 50,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "audioLanguages": ["English"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "towers-of-dawn",
+    "name": "Towers of Dawn",
+    "tagline": "The last beacon line in the north.",
+    "synopsis": "Two beacon keepers light their towers through a night of raiders, running out of oil one floor at a time.",
+    "year": 2025,
+    "maturity": "16+",
+    "genres": ["Action", "Adventure"],
+    "categories": ["ACTION", "ULTRA_HD_4K"],
+    "castList": ["Ivo Kenn", "Reg Halt"],
+    "posterUrl": "https://picsum.photos/seed/castle-dawn/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-dawn-wide/1200/675",
+    "premium": true,
+    "ultraHd": true,
+    "downloadable": true,
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "movie": {
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "runtimeMinutes": 112,
+      "audioLanguages": ["English", "German", "Italian"]
+    }
+  },
+  {
+    "id": "parchment-pirates",
+    "name": "Parchment Pirates",
+    "tagline": "They steal maps and nothing else.",
+    "synopsis": "A crew of bookish pirates raid the castle library for the one chart that leads somewhere else.",
+    "year": 2020,
+    "maturity": "All ages",
+    "genres": ["Kids", "Comedy"],
+    "categories": ["KIDS"],
+    "castList": ["Odo Fenn", "Sil Pyke"],
+    "posterUrl": "https://picsum.photos/seed/castle-pirates/400/600",
+    "backdropUrl": "https://picsum.photos/seed/castle-pirates-wide/1200/675",
+    "premium": false,
+    "ultraHd": false,
+    "downloadable": true,
+    "trailerUrl": null,
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "pirates-s1e1",
+            "number": 1,
+            "title": "Silence in the Stacks",
+            "synopsis": "The librarian hears the boots before the crew does.",
+            "runtimeMinutes": 25,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+            "audioLanguages": ["English"]
+          },
+          {
+            "id": "pirates-s1e2",
+            "number": 2,
+            "title": "The Wrong Chart",
+            "synopsis": "They steal a map of the kitchen garden.",
+            "runtimeMinutes": 24,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "audioLanguages": ["English"]
+          }
+        ]
+      }
+    ]
+  }
+]

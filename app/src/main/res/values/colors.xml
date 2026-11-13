@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="castle_background">#FF0B0B0F</color>
+    <color name="castle_gold">#FFD9A521</color>
+    <color name="ic_launcher_background">#FF0B0B0F</color>
+</resources>

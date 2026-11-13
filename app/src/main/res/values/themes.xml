@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Castle" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/castle_background</item>
+        <item name="android:statusBarColor">@color/castle_background</item>
+        <item name="android:navigationBarColor">@color/castle_background</item>
+        <item name="android:colorAccent">@color/castle_gold</item>
+    </style>
+</resources>
